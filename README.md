@@ -1,6 +1,6 @@
 # Assignment6
 >This is the _sixth assignment_ of *CS648* under *_Module 6_.*
-This repository contains code written in *_Java script_* for some problem statements.
+This repository contains code written in *_JavaScript_* for some problem statements.
 Below are the problem statements solved using *_JavaScript_*:
 * **Larger or Smaller**
 >Code Accepts two integer that within two separate prompts. Then, code displays only the larger of the two within the browser window. Handled the scenario where two numbers can be equal.
