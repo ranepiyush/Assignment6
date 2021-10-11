@@ -1,5 +1,5 @@
 # Assignment6
->This is the _fourth assignment_ of *CS648* under *_Module 4_.*
+>This is the _sixth assignment_ of *CS648* under *_Module 6_.*
 This repository contains code written in *_Java script_* for some problem statements.
 Below are the problem statemnts solved using *_Java script_*:
 * **Larger or Smaller**
